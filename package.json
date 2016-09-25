@@ -1,0 +1,25 @@
+{
+  "name": "ChartsExplorer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.16.1",
+    "moment": "^2.15.1",
+    "react": "15.3.2",
+    "react-native": "0.34.0",
+    "react-native-action-button": "^2.0.4",
+    "react-native-elements": "^0.5.4",
+    "react-native-ios-charts": "git+https://github.com/Jpadilla1/react-native-ios-charts.git",
+    "react-native-md-textinput": "^2.0.4",
+    "react-native-modalbox": "^1.3.7",
+    "react-native-navbar": "^1.5.1",
+    "react-native-simple-picker": "^1.1.0",
+    "react-native-speech": "^0.1.2",
+    "react-native-swiper": "^1.4.11",
+    "react-native-vector-icons": "^2.1.0",
+    "socket.io-client": "^1.4.8"
+  }
+}
